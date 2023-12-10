@@ -11,10 +11,12 @@ Tool to get paths from WinPrefetchView items.
 2. Change the directory to the location of the script
 3. Run the script with ./NTFSRelocations.ps1
 4. Paste the desired items from WinPrefetchView
+5. Input .parse to scan the WinPrefetchView items.
 
 *For Executable:*
 1. Simply run the executable
 2. Paste the desired items from WinPrefetchView
+3. Input .parse to scan the WinPrefetchView items.
 
 ## Problems
 *If you have problems running the script, run this command first:*
