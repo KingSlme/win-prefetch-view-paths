@@ -3,6 +3,8 @@ function Main {
     Clear-Host
     Display-Logo
     Get-Input
+    Write-Host "Press Enter to continue..."
+    Read-Host
 }
 
 function Display-Logo {
